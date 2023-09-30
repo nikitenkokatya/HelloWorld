@@ -8,7 +8,7 @@ Donde he aprendido:
 - Crear el icono para el programa
 - Añadir el proyecto a GitHub
 - Borrar el cache y añadir de nuevo todos los ficheros a GitHub
-- Generar javadoc
+- Generar JavaDoc
 
 ### Recursos de colores y strings
 ###### Colores:
