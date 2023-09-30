@@ -51,9 +51,10 @@ Ponemos el nombre del icono, la imagen, también se puede cambiar el color de fo
 
 #### Borrar el cache
 `git rm -r --cached .`
-#### Añadir de nuevo los ficheros de programa
+#### Añadir de nuevo los archivos del programa
 `git add .`
 
+#### Confirmar los cambios
 `git commit -m "Solucion correcta donde se aplica el nuevo fichero .gitignore"`
 
 `git push origin master`
