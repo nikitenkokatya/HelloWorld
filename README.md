@@ -2,7 +2,7 @@
 ## Introdución
 Mi primer proyecto en Android Studio con Java.
 
-Donde he aprendido:
+Conceptos basicos;
 - Utilizar recursos para cambiar colores y cambiar texto en las etiqutas de texto.
 - Utilizar diferentes atributos de la etiqueta <TextView></TextView> como el tamaño de las letras, centralizar el texto,  estilo de las letras
 - Instanciar en Java un objeto TextView
